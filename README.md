@@ -1,2 +1,5 @@
 # Healthcare Management System
- Healthcare Management System built using Django
+
+Our foremot priority or say responsibility is to protect ourselves by taking proper health care.
+
+Here this Healthcare Management System that is built using Django, will guide you in proper way.
